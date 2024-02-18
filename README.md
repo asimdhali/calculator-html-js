@@ -1,2 +1,1 @@
-![Screenshot (49)](https://github.com/asimdhali/calculator-html-js/assets/141352321/87ea844d-611a-4901-99ef-f3be47d7b619)
-![Screenshot (49)](https://github.com/asimdhali/calculator-html-js/assets/141352321/865a789a-2cb4-42a5-9bae-0110542a9b89)
+![calculator](https://github.com/asimdhali/calculator-html-js/assets/141352321/4ec04f72-2eb3-49cc-8861-8c8f3fdeb82a)
